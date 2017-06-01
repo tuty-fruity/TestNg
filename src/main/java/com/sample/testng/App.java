@@ -8,6 +8,7 @@ public class App
 {
     public static void main(String[] args )
     {
+	String feature = "added feature";
         String name1 = "juan";
         String n1 = new String("juan");
 
