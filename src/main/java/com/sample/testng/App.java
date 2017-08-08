@@ -10,7 +10,6 @@ public class App
     {
         String name1 = "juan";
         String n1 = new String("juan");
-
         System.out.println(n1.equals(name1));
     }
 
